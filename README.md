@@ -1,4 +1,4 @@
-Customer Churn & Customer Intelligence
+#Customer churn analysis
 
 Analyzed customer, subscription, and support data to identify churn patterns, revenue at risk, customer behavior, and retention opportunities using Python, SQLite, Pandas, NumPy, Matplotlib, and Seaborn.
 
